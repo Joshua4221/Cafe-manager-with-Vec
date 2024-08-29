@@ -1,6 +1,6 @@
 # Coffee Shop Inventory Management System
 
-This project is a command-line based Coffee Shop Inventory Management System, implemented in Rust using a Vec to manage inventory and client orders. The system supports CRUD operations for products, allowing administrators to add, view, update, and remove products from the inventory, and handle client orders.
+This project is a command-line based Coffee Shop Inventory Management System, implemented in Rust using a "Vec<>" to manage inventory and client orders. The system supports CRUD operations for products, allowing administrators to add, view, update, and remove products from the inventory, and handle client orders.
 
 ## Features
 
